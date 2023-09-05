@@ -1,0 +1,26 @@
+Files cmd notes:
+code 'filename' - to create a file but if file exist then it will open the file
+
+
+Github notes:
+
+git init - to initialize github
+git --global user.email - to add global email
+git --global user.name - to add global username
+git add 'filename' - to add a file to the staging area
+git add . - to add all files to the staging area
+git status - to view the status of the files in staging area
+git commit -m "message here" - to commit the file
+git log - to check the commit information (to exit git log press q )
+
+
+git dif 'filename' - to check the different version of file that has been edited
+git checkout 'filename' - revert back to last version of file
+
+REMOTE GITHUB: after commit upload files in your repository
+
+git remote add <convention name -anything> <GITHUB URL>
+git push -u <remote name> <branch name>
+
+NOTE: Always remember
+Working Directory > Staging Area > Local Repository > Remote Repository
