@@ -23,4 +23,9 @@ git remote add <convention name -anything> <GITHUB URL>
 git push -u <remote name> <branch name>
 
 NOTE: Always remember
+git init             git add        git commit         git remote/ git push
 Working Directory > Staging Area > Local Repository > Remote Repository
+
+
+
+

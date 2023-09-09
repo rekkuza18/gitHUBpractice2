@@ -1,0 +1,7 @@
+#NOTE: all files that you will write here will be ignored to in commit
+#FORMAT:
+# <filename>
+# *.<extention> ex. *.txt
+
+secretFile.txt
+GITHUB NOTE.txt
